@@ -7,6 +7,12 @@
   "publishConfig": {
     "access": "public"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkprasanth/kp-ui.git"
+  },
+  "author": "GKPC gkpc200@gmail.com",
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
